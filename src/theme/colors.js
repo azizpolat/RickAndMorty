@@ -7,6 +7,7 @@ const Colors = {
   RED: '#fd1d00',
   BROWN: '#e9967a',
   GRYN: '#808080',
+  GOLD: '#daa520',
 };
 
 export default Colors;
